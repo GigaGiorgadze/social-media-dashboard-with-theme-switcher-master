@@ -8,7 +8,7 @@ hr{
 }
 .main{
     width: 85vw;
-    height: 90vh;
+    height: auto;
     margin: 5vh auto;
 }
 .top h1{
